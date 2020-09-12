@@ -1,4 +1,4 @@
-### Resume
+## Resume
 
 Its about argument count and argument vector. Some exercises about these arguments, and how function with bash.
 
@@ -14,4 +14,4 @@ Its about argument count and argument vector. Some exercises about these argumen
 
 Image:
 
-![](zapataramil/argv_argc/edit1.png)
+zapataramil/argv_argc/edit1.png
