@@ -18,7 +18,7 @@ If the argument have an space, then use " " or ' ' to put an space
 
 **Debug:**  g++ main.cpp -o program
 
-**Run:** ./program argumento2 argumento3 argumento4
+**Run:** ./program argument1 argument2 argument3
 
 
 
