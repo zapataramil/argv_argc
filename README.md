@@ -14,4 +14,5 @@ Its about argument count and argument vector. Some exercises about these argumen
 
 Image:
 
-zapataramil/argv_argc/edit1.png
+![](https://github.com/zapataramil/argv_argc/blob/master/edit1.png)
+
