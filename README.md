@@ -10,8 +10,8 @@ Its about argument count and argument vector. Some exercises about these argumen
 **Run:** ./program argumento2 argumento3 argumento4
 
 
-###Example
+### Example
 
 Image:
 
-![](zapataramil/argv_argc/edit.png)
+![](zapataramil/argv_argc/edit1.png)
